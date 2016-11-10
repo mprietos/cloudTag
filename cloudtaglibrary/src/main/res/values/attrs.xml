@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CloudTag">
+        <attr name="tagBackGround" format="color" />
+        <attr name="tagFontColor" format="color" />
+        <attr name="tagFontSize" format="dimension" />
+        <attr name="canDelete" format="boolean" />
+        <attr name="roundedCorners" format="boolean" />
+        <attr name="deleteFontColor" format="color" />
+        <attr name="numberOfTags" format="integer" />
+        <attr name="maxLines" format="integer" />
+        <attr name="deleteFontSize" format="dimension" />
+    </declare-styleable>
+
+</resources>

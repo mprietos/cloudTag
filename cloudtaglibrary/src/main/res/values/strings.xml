@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CloudTagLibrary</string>
+  <string name="ver_todos">Ver todos</string>
+  <string name="no_ver_todos">Ocultar</string>
+</resources>
